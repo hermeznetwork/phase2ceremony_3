@@ -7,8 +7,8 @@ This repository contains the transcript of the Phase2 Ceremony.
 
 This ceremony runs the trusted setup for 3 circuits:
 
-* **circuit-1960-32-256-64**
-* **circuit-352-32-256-64**
+* **circuit-1912-32-256-64**
+* **circuit-344-32-256-64**
 * **withdraw**
 
 The first two circuits are the validation circuits for 1912Tx and 344 Txs.  The third circuit is the one used in the rollup exits.
