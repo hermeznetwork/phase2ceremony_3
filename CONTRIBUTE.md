@@ -45,9 +45,9 @@ At the begining of the contribution you will receive 3 files:
 Where `xxxx` is the contribution of the last participant.
 
 ````
-wget https://hermez.s3-eu-west-1.amazonaws.com/withdraw_hez3_xxxx.zkey
-wget https://hermez.s3-eu-west-1.amazonaws.com/circuit-344-32-256-64_hez3_xxxx.zkey
-wget https://hermez.s3-eu-west-1.amazonaws.com/circuit-1912-32-256-64_hez3_xxxx.zkey
+wget --compression=none https://hermez.s3-eu-west-1.amazonaws.com/withdraw_hez3_xxxx.zkey
+wget --compression=none https://hermez.s3-eu-west-1.amazonaws.com/circuit-344-32-256-64_hez3_xxxx.zkey
+wget --compression=none https://hermez.s3-eu-west-1.amazonaws.com/circuit-1912-32-256-64_hez3_xxxx.zkey
 ````
 
 Take note of the blake2b of the inputs and check with the ceremony coordinator the integrity of the files:
