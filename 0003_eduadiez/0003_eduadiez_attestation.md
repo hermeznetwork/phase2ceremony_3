@@ -1,7 +1,4 @@
------BEGIN PGP SIGNED MESSAGE-----
-Hash: SHA256
-
-# Hermez First Phase 2 ceremony attestation
+# Hermez First Phase 2 ceremony attestation  (Third bootstrap)
 
 **Contribution Number:**    0003
 
@@ -15,6 +12,8 @@ Hash: SHA256
 
 **Software Used:** snarkjs@0.3.59
 
+**Measures Taken:** Nothing special. It's just my trusted envirotment.
+
 ## 1912 TXs Circuit
 
 **Hash of the circuit:**
@@ -25,7 +24,7 @@ e8aa1d3e 59174e10 e538504d 208bc959
 83a819ea 56af7132 e12996f3 13882859
 ````
 
-- ---
+---
 
 **Original File Name:** `circuit-1912-32-256-64_hez3_0002.zkey`
 
@@ -37,16 +36,16 @@ e8aa1d3e 59174e10 e538504d 208bc959
 e40caddb 6363bf77 8282eeb6 5a4b1368
 ````
 
-- ---
+---
 
 **Response File Name:** `circuit-1912-32-256-64_hez3_0003.zkey`
 
 **Response File Blake2b Hash:**
 ````
-ea16291b b6030c2f 5d5e74e7 36c1efa5
-ca756321 7571d958 7330da2a 9ef6e5a8
-e4cebedd 8a5a737a 06444f9b 3607ecc5
-9b6b212c c27ee18c 6d1ced0b 99cf5ff2
+3401b16c 507ffb48 c11630e5 6330f768
+8b5e220d fb8e8f2d 71c24d5f 866bdb89
+1add7358 021e9993 f877f68f cff08d27
+2c42fa65 97b0d232 ffc676bb 37720226
 ````
 
 **Contribution Hash:**
@@ -67,7 +66,7 @@ b6b78d08 04636911 0d12afad 8c49a0e9
 ea8b5448 21ca6ade 4df911cd 52d34550
 ````
 
-- ---
+---
 
 **Original File Name:** `circuit-344-32-256-64_hez3_0002.zkey`
 
@@ -79,7 +78,7 @@ db76e979 a303741c f3cf4da0 db0e2108
 693ab5cf bc016226 66c826f2 e65370ac
 ````
 
-- ---
+---
 
 **Response File Name:** `circuit-344-32-256-64_hez3_0003.zkey`
 
@@ -109,7 +108,7 @@ db76e979 a303741c f3cf4da0 db0e2108
 7c0c69a3 3a2aca64 dc3365c0 ce74a0ec
 ````
 
-- ---
+---
 
 **Original File Name:** `withdraw_hez3_0002.zkey`
 
@@ -121,7 +120,7 @@ d8b9b4c9 0d285b11 6c985cb2 cf849c99
 8c299b39 41b5e8bf 842a9ddd 02b08fa5
 ````
 
-- ---
+---
 
 **Response File Name:** `withdraw_hez3_0003.zkey`
 
@@ -140,19 +139,3 @@ ad2dd331 222be0e5 93e23e60 ac13fa00
     6f14d966 e601389f 5fae3780 5c07106c
     868b0b63 399e379d 3cc1af1b 7ed1ecfa
 ````
------BEGIN PGP SIGNATURE-----
-
-wsFcBAEBCAAQBQJgUTrwCRDZOkwN2QOcPAAAei4QAJShgrxf/EWtOJYYXi8XNw23
-re52a6GArqSJVrZULyk+WB6cmw2tbtpML3XYG69oLj5FpZjWmmNtvdlaeWCptEer
-EvXqat0K56qTK1p0+hNuoiddS0+XTfgRpduRolOBqxC2tV36Pf31wZudREgzrKAo
-KEKwGH9eOAfDzJ5L4db00LSgkfalVi+eW3gCTI0is4jWfBRtc6yDWZJV0DEIiiQ3
-1W8OQPR8spp2akOWlgibrhgZpDj3thjTeo5nwhYIrvqQCiSV+PFdB4QSPjlBwTPT
-nxfgeczfhuTB5/th6GPiTfcEiLkQeNg9e5kT1QH2zoa4iNaxxBBa5wSKzCTYuW1l
-cRPMYzyouTe2CkZCU8NtfYyc71qE9VfdGrvN740krczOgxI8cb01qQOmnFufzYlP
-5NIB7Q7mMh56+dHRiXPZPirOjoJLUeYlOBm84XLuZ556CmVfT2DFrkvd4Nf8AIk4
-Qk82dCth7GJwKg7kSWRLqBM4bbXNDdZpoV9tAvZBeUQ1Icwu8ejXZfdwtLejiBlK
-ncOxEFBqiTukX3MrLhIBLzGUdUqLT+sf+5lTO70tQ8bgRpLskz+zYgLEjNTIYlMi
-fwfa5rZ5mBoYy3zhfSjnsQyciJJnAWTEomN9u9y0az8+CTSSC7v1cXIKPZFsLjBk
-DHNtlWEy8d4RIkvVJVog
-=noOF
------END PGP SIGNATURE-----
