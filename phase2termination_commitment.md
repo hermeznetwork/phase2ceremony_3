@@ -8,7 +8,7 @@ This phase2 was run on 3 circuits:
 * circuit_344_32_256_64: Batch processor of 344 Txs.
 * withdraw: Circuit used to withdraw funds.
 
-This ceremony was run by 7 trustend individuals from the community:
+This ceremony was run by 7 trusted individuals from the community:
 
 * [jordi](https://keybase.io/jbaylina)
 * [kobigurk](https://keybase.io/kobigurk)
@@ -22,17 +22,26 @@ After the contributions, the b2sum of the zkey files resulting from the last con
 
 #### b2sum circuit_1912_32_256_64_hez3_0007.zkey
 ````
-
+3aceeb98 42ecc5d6 ff0ce9be 184f5b2e
+21182fbb e1ba642b f751d799 59d16a95
+D996f0d0 4e91b0d9 7606ccdf 557bfb37
+0263a05f 48d40932 d45f8b77 3a0e68e0
 ````
 
 #### circuit_344_32_256_64_hez3_0007.zkey
 ````
-
+63fcde7c 5b5a2ee2 abaec90f a02025ad
+Eb6559bd 5b318593 b4cec080 daf51996
+54ae6f00 0af6cd7e 9393d3a9 0e1a5bfb
+3e1d52b7 2a065d9d 65eb8e60 57dbf886
 ````
 
 #### withdraw_hez3_0007.zkey
 ````
-
+072543ae 5b51b2e7 4ea1ce56 a8afde52
+B58ad938 06d595ab 8512880f bb5aa592
+Bf765ec5 e2e58948 6d23bd5c D4ca9f88
+7eacb995 51779402 c46f25f8 9b506184
 ````
 
 You can see the details of the ceremony [here](https://github.com/hermeznetwork/phase2ceremony_3).
@@ -41,7 +50,7 @@ Before calculating the final zkey file, we will apply a random beacon to the thr
 
 Notice that according to [this](https://electriccoin.co/blog/reinforcing-the-security-of-the-sapling-mpc/), a random beacon might not be strictly necessary. Nevertheless, we consider it best practise to do so.
 
-For this, we will apply the result of the round [TODO] of [drand](https://drand.love).
+For this, we will apply the result of the round 697500 of [drand](https://drand.love).
 
 Here is the info of the drand chain that will be used:
 
@@ -57,11 +66,11 @@ Here is the info of the drand chain that will be used:
 
 This number is planned to be generated on
 
-[TODO]
+Sunday March 21st, 20:37:00 UTC
 
 Once the number is generated, one should be able to find it here:
 
-[https://drand.cloudflare.com/public/100000](https://drand.cloudflare.com/public/100000)[TODO change number]
+[https://drand.cloudflare.com/public/697500](https://drand.cloudflare.com/public/100000)
 
 or here:
 
