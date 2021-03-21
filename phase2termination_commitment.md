@@ -16,7 +16,7 @@ This ceremony was run by 7 trustend individuals from the community:
 * [thore1234](https://keybase.io/thore1234)
 * [josephc](https://keybase.io/cdili)
 * [weijie](https://keybase.io/contactkohweijie)
-* [jarrad] [TODO]
+* [jarradhope](https://keybase.io/jarradhope)
 
 After the contributions, the b2sum of the zkey files resulting from the last contributions are:
 
