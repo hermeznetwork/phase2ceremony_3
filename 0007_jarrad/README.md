@@ -10,7 +10,7 @@
 
 **Device:** Personal PC with `AMD Ryzen 9 3900X 12-Core Processor`
 
-**Software Used:** `node@15.10.0`and `snarkjs@0.3.60`
+**Software Used:** `node@15.10.0`and `snarkjs@0.3.60` 
 
 **Measures Taken:** Shutdown Machine, Unplug Power, Nude Ritualistic Exorcism of Toxicity
 
@@ -116,6 +116,7 @@ b4804915 d49d1e7a c479f637 149fe328
 ````
 
 **Contribution Hash:**
+
 ````
 28d0e8fe 1d98b3bb 9ec1c2ec d199497b
 cd5657c0 f9bd1253 5b7bce4f 387c04c4
