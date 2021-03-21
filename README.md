@@ -1,4 +1,4 @@
-# Hermez Network Second Phase2 Trusted Setup Ceremony.
+# Hermez Network Third Phase2 Trusted Setup Ceremony.
 
 NOTE: The first First Phase2 ceremony was cancelled as we added the float40
 precission to the system and this implies a modification of the circuit.
