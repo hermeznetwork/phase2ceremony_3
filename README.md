@@ -38,6 +38,29 @@ For verifying the ceremony see: [VERIFY.md](VERIFY.md)
 | [0006_weijie](https://github.com/hermeznetwork/phase2ceremony_3/tree/main/0006_weijie) | [circuit-1912-32-256-64_hez3_0006.zkey](https://hermez.s3-eu-west-1.amazonaws.com/circuit-1912-32-256-64_hez3_0006.zkey)     | [contactkohweijie](https://keybase.io/contactkohweijie)  | `92723678 68e91c11`<br>`cc524870 e08587c5`<br>`22b97748 6d8cb1c1`<br>`a219a3b4 7a8ba57b`<br>`95f72fec f760dbd5`<br>`67d2e2ed 0896e7bd`<br>`e210d67d 08fcd551`<br>`3f3f0b83 f5317864` |
 | [0007_jarrad](https://github.com/hermeznetwork/phase2ceremony_3/tree/main/0007_jarrad) | [circuit-1912-32-256-64_hez3_0007.zkey](https://hermez.s3-eu-west-1.amazonaws.com/circuit-1912-32-256-64_hez3_0007.zkey)     | [jarradhope](https://keybase.io/jarradhope)  | `19a14cdb f1ec8e99`<br>`3114c055 27ff10a9`<br>`db6f96f6 10f711b5`<br>`d6edee02 26b00c14`<br>`ad1821d8 9ec03817`<br>`b449631f 6a5481fa`<br>`2eaaadcb c48f45ea`<br>`231fca07 d1ae3a73` |
 
+##### Beacon Random
+
+````
+84f058976718c162435d0317233f30d7ba44187faf95ad7023c462627cb968d5
+````
+
+##### Beacon Contribution
+
+````
+c7c13f40 9600003d 6f3ebf78 9df21dd1
+3243e736 3c7c1cf7 d5cc00b0 0ab92f27
+8ed21afe 499283fa 06f1af76 a9318987
+49d94651 b506136a 30d01e3d 5134134e
+````
+
+##### [circuit-1912-32-256-64_hez3_final.zkey](https://hermez.s3-eu-west-1.amazonaws.com/circuit-1912-32-256-64_hez3_final.zkey)
+
+b2sum:
+````
+7c86808f7bc77cc0a81640d7088fa9dabcb71bfee21deb95bd7b25003f797bee200524981a7d1b23103443121f8e0485ff0de1f7037a95143e6734d897e2cbe0
+````
+
+
 
 ### 344 Tx Circuit
 
@@ -52,6 +75,30 @@ For verifying the ceremony see: [VERIFY.md](VERIFY.md)
 | [0006_weijie](https://github.com/hermeznetwork/phase2ceremony_3/tree/main/0006_weijie) | [circuit-344-32-256-64_hez3_0006.zkey](https://hermez.s3-eu-west-1.amazonaws.com/circuit-344-32-256-64_hez3_0006.zkey)     | [contactkohweijie](https://keybase.io/contactkohweijie)  | `e7613130 c3d333d9`<br>`e577151a aea73d38`<br>`8fafb500 4334252d`<br>`fb3fd21b f548e5c0`<br>`fb2f91e6 b1b40d75`<br>`f1943b5c 378b669c`<br>`9091719c cf8f1376`<br>`4fad50b1 d83d2916` |
 | [0007_jarrad](https://github.com/hermeznetwork/phase2ceremony_3/tree/main/0007_jarrad) | [circuit-344-32-256-64_hez3_0007.zkey](https://hermez.s3-eu-west-1.amazonaws.com/circuit-344-32-256-64_hez3_0007.zkey)     | [jarradhope](https://keybase.io/jarradhope)  | `82af1ea9 809f7022`<br>`418fe8c7 2f26d089`<br>`1a163d51 d014bfb1`<br>`b4f0c827 f6266a09`<br>`d9fd268e 263a37b8`<br>`7336018f 8bd68759`<br>`b4804915 d49d1e7a`<br>`c479f637 149fe328` |
 
+##### Beacon Random
+
+````
+84f058976718c162435d0317233f30d7ba44187faf95ad7023c462627cb968d5
+````
+
+##### Beacon Contribution
+
+````
+55ecacdd 801d1991 da480099 e95be08e
+9b790edf 50ff611c fa61525d 8e471fef
+f7ce2ad1 b69505b0 fff14292 7564b533
+1cfe46a0 69b1f8da 215f33ca a7f02d43
+````
+
+##### [circuit-344-32-256-64_hez3_final.zkey](https://hermez.s3-eu-west-1.amazonaws.com/circuit-344-32-256-64_hez3_final.zkey)
+
+b2sum:
+````
+dd9968a8 c371bfdf f2a947d6 28ef666d
+9a21dea6 efbdb70f 84c8d0da 0f9e071f
+a964bded e5ae41ae 065bb8df 59237f02
+b1c2960d fd8062a4 43fde691 f39d9012
+````
 
 ### WithdrawCircuit
 
@@ -66,4 +113,28 @@ For verifying the ceremony see: [VERIFY.md](VERIFY.md)
 | [0006_weijie](https://github.com/hermeznetwork/phase2ceremony_3/tree/main/0006_weijie) | [withdraw_hez3_0006.zkey](https://hermez.s3-eu-west-1.amazonaws.com/withdraw_hez3_0006.zkey)     | [contactkohweijie](https://keybase.io/contactkohweijie)  | `b36d1e18 5ddc8167`<br>`759e93f6 e08e4b72`<br>`4ef21af4 e03054c4`<br>`a6950937 cf9c44bc`<br>`f56faf7d 89e46f9b`<br>`de77ab70 1d88facb`<br>`b3f0dd0d 6c612345`<br>`6d32a872 df91ae8a` |
 | [0007_jarrad](https://github.com/hermeznetwork/phase2ceremony_3/tree/main/0007_jarrad) | [withdraw_hez3_0007.zkey](https://hermez.s3-eu-west-1.amazonaws.com/withdraw_hez3_0007.zkey)     | [jarradhope](https://keybase.io/jarradhope)  | `28d0e8fe 1d98b3bb`<br>`9ec1c2ec d199497b`<br>`cd5657c0 f9bd1253`<br>`5b7bce4f 387c04c4`<br>`6995f2f7 1505243d`<br>`756ae9df ebd1fc47`<br>`f0f3b2c7 11cabbe1`<br>`3f610e1f 6fb658c9` |
 
+##### Beacon Random
+
+````
+84f058976718c162435d0317233f30d7ba44187faf95ad7023c462627cb968d5
+````
+
+##### Beacon Contribution
+
+````
+04449031 c0231295 6183d5d7 347b54d2
+1bc331f3 e18f67eb bdd4645f 729f0ce0
+828ec2bd 1e30a810 b1b63c1f ce9a5847
+0663f60e 6a9eb1f2 35609323 8975f19d
+````
+
+##### [withdraw_hez3_final.zkey](https://hermez.s3-eu-west-1.amazonaws.com/withdraw_hez3_final.zkey)
+
+b2sum:
+````
+61e63097 4bcf3eb4 ef722e21 549e5788
+6e8806d0 a2bc2680 d053c052 81250386
+93c72f14 283925a0 6e7fca01 e000ad34
+89140f83 9fe7f516 faf13499 88ccd678
+````
 

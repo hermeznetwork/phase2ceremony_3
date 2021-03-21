@@ -357,6 +357,28 @@ You have to match also the contribution hashes of the participants with attestat
 
 As far as there is a single attestatation you trust, you can considere the ceremony for this circuit safe.
 
+#### Phase2 Random beacon verification
+
+You can see also the random beacon of the three circuits is:
+
+````
+97191307 3332c517 b6c1e7e5 5c30eecb
+c8f10b0f e0e39309 75ed42e4 b750f897
+````
+
+This number is the drand round 100,000 which you can find [here](https://drand.cloudflare.com/public/100000)
+
+The procedure was anaunced [here](https://etherscan.io/tx/0x98e38b88ed244a73ce7c1e3ab4f37439ae1faead555a20fd376496339adc2fed): on august 24th, 2020
+And the beacon random wos generated on august 26th, 2020
+
+To see that it was calculated that date,
+You can see the genesis drand [here](https://drand.cloudflare.com/info)
+
+The unix timestamp of the drand genesis time is: 1595431050
+The period is: 30
+So the generation time is: 1595431050 + 100000*30 = 1598431050
+If we convert this unix time in seconds to readable time, it is Wednesday, 26 August 2020 08:37:30
+
 #### Make a public post.
 
 If you reach this point, it would be great if you can publish a public post or at least a tweet explaining that you verified the circuits.
